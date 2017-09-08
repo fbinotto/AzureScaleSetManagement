@@ -20,3 +20,4 @@ The following are the functionalities once a scale set is selected:
 7.  Roll out upgrade to all VM instances in batches
 8.  Scale out / Scale in
 
+<p><a href="/fbinotto/AzureScaleSetManagement/blob/master/pictures/ss01.PNG" target="_blank"><img src="/fbinotto/AzureScaleSetManagement/blob/master/pictures/ss01.PNG" alt="Image of VMSS Editor" style="max-width:100%;"></a></p>
