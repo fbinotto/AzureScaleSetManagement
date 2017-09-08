@@ -20,8 +20,6 @@ The following are the functionalities once a scale set is selected:
 7.  Roll out upgrade to all VM instances in batches
 8.  Scale out / Scale in
 
-![alt text](https://github.com/fbinotto/AzureScaleSetManagement/blob/master/pictures/ss02.PNG)
-
 The following is an overview of the user interface:
 
 ![alt text](https://github.com/fbinotto/AzureScaleSetManagement/blob/master/pictures/ss01.PNG)
