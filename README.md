@@ -1,6 +1,8 @@
 # AzureScaleSetManagement
 Azure Virtual Machine Scale Set Management Tool
 
+Update 1: Support added for Azure Managed Service Identity (MSI)
+
 I have made this tool in PowerShell inspired by the tool Guy Bowerman made coded in Python.
 
 You can check his tool at https://github.com/gbowerman/vmssdashboard
